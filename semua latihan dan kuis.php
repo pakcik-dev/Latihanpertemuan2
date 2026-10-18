@@ -187,7 +187,7 @@ function hitungNilaiAkhir( float $tugas, float $uts, float $uas ) {
     echo "Status: " . $status . "<br>";
 }
 
-// Contoh pemanggilan fungsi dengan nilai tugas, uts, dan uas
+//  pemanggilan fungsi dengan nilai tugas, uts, dan uas
 hitungNilaiAkhir(80, 80, 87);
 ?>
 
