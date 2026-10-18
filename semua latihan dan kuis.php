@@ -136,7 +136,7 @@ echo "<hr>";
 
 //====================================================
 echo "<h2>Latihan 3</h2>";
-$mahasiswa = ["Andi", "Budi", "Citra", "Dika", "Eka"];
+$mahasiswa = ["Andi", "Agung", "Rika", "Putra", "Eka"];
 foreach ($mahasiswa as $index => $nama) {
     echo ($index + 1) . ". $nama.<br>";
 }
