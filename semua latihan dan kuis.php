@@ -17,7 +17,7 @@ echo "<hr>";
 //=======================================
 //Operator arritmatatika
 //========================================
-//Operator Perbadian
+//Operator Perbandingan
 //========================================
 //Latihan 1 menentukan Grade nilai Mahasiswa
 //===========================================
