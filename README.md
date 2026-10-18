@@ -5,3 +5,5 @@ NIM  : 250030550
 Mata Pelajaran : Perancangan Sistem Backend
 
 Kelas : AC253
+
+PROGRAM STUDI : SISTEM INFORMASI
