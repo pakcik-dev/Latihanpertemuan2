@@ -4,6 +4,6 @@ NIM  : 250030550
 
 Mata Pelajaran : Pengembangan Sistem Backend
 
-Kelas : AC253
+Kelas : AA253
 
 PROGRAM STUDI : SISTEM INFORMASI
